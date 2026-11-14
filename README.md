@@ -7,7 +7,6 @@ Pada tahap ini isinya baru kerangka proyek; belum ada kode aplikasi.
 | Nama | NIM | Akun GitHub | Peran |
 |---|---|---|---|
 | Dhinisa Rahmah | 240131021 | @dhinisarahmah | Pemilik repository |
-| Sia Carla | 240131--- | @carlamara | Anggota yang Diundang |
 ## Cara menjalankan
 Akan diisi pada Pertemuan 9.
 ## Aturan kerja tim
