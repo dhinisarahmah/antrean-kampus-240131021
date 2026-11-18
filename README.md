@@ -8,10 +8,10 @@ Pada tahap ini isinya baru kerangka proyek; belum ada kode aplikasi.
 |---|---|---|---|
 | Dhinisa Rahmah | 240131021 | @dhinisarahmah | Pemilik repository |
 | Raniya | 240131099 | @levenderraniya | Anggota |
-| Imam Taufik | 240131039 | @| Anggota |
-| Jumiati | 240131045 || Anggota |
-| Miftahur Rezki | 240131058 || Anggota |
-| Muhammad Kurniadi | 240131070 || Anggota |
+| Imam Taufik | 240131039 | @imamt2001 | Anggota |
+| Jumiati | 240131045 | @Jumiati55 | Anggota |
+| Miftahur Rezki | 240131058 | @Mrezkii| Anggota |
+| Muhammad Kurniadi | 240131070 | @Povkuu09 | Anggota |
 ## Cara menjalankan
 Akan diisi pada Pertemuan 9.
 ## Aturan kerja tim
